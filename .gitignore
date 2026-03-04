@@ -96,6 +96,8 @@ Minecraft.Client/Windows64/GameHDD/
 # Arc archives (packed texture/media bundles)
 *.arc
 
+!Minecraft.Client/Common/Media/MediaWindows64.swf
+
 # Miles Sound System redistributables
 Minecraft.Client/redist64/
 *.asi
